@@ -5,10 +5,6 @@
     margin: 0 10px 10px 10px;
 }
 
-    .media-img:hover{
-        transform: scale(1.1);
-    }
-
 .media-img-wrapper {
     max-width: 500px;
     max-height: 500px;
